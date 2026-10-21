@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../BookStoreApi.Tests/BookStoreApi.Tests.csproj" Id="6f3e723e-e06e-4a58-8ac5-d54217268a1f" />
+  <Project Path="BookStoreApi.csproj" />
+</Solution>
