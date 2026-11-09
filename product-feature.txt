@@ -1,1 +1,1 @@
-Product feature implemented
+Product catalog feature implemented
